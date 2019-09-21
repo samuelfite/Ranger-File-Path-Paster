@@ -6,6 +6,7 @@ Install:
     Should see folder /usr/local/lib/python2.7/dist-packages/ranger/
     
     run 'sudo chmod 777 auto_install.sh'
+    run 'sudo ./auto_install.sh'
     restart ranger
 
 WARNING: 
